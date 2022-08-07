@@ -1,0 +1,3 @@
+# Training in Niftecs Software Company
+
+### The following projects were done during short training in Niftecs Company...
